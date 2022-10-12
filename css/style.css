@@ -1,0 +1,238 @@
+.body {
+    background-color: #202020;
+    margin: 0px;
+    padding: 0px;
+}
+.header {
+    background-color: #202020;
+    margin-left: 112px;
+    margin-right: 112px;
+    margin-top: 20px;
+}
+.width-100 {
+    width: 100%;   
+}
+.width-20-header {
+    width: 20%;
+}
+.display-inline-block {
+    display:inline-block;
+}
+.width-60-header {
+    width: 57%;
+}
+.padding-header-right {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.text-grey {
+    color:grey;
+}
+.search-button {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #303030;
+    border-radius: 20px;
+    border: 0px;
+    color:grey;
+}
+.search-text {
+    padding-top: 8px;
+    padding-left: 10px;
+}
+
+.profile-button {
+    background-color: #303030;
+    border-radius: 20px;
+    padding: 5px 20px;
+    margin-left: 10px;
+    border: 0px;
+}
+.float-right {
+    float:right;
+}
+.profile-padding {
+    padding-top:10px;
+}
+.padding-left-header {
+    padding-left: 20px;
+}
+.text-right {
+    text-align: right;
+}
+.float-left {
+    float: left;
+}
+.logo {
+    padding-top: 20px;
+}
+.padding-60 {
+    padding: 60px;
+    background-color: #303030;
+    border-radius: 30px;
+}
+.border-radius {
+    border-radius: 20px;
+}
+
+.text-white {
+    color:white;
+}
+.section-1 {
+    background-color: #202020;
+    margin-left: 112px;
+    margin-right: 112px;
+    margin-top: 20px;
+}
+.padding-30 {
+    padding: 30px;
+}
+.bg {
+    background-color: #202020;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 20px;
+}
+
+.font-family {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.h1-font-size {
+    font-size: 40px;
+}
+
+
+.backgroun-color-images {
+    background-color: #303030;
+}
+.width-24 {
+    width:20%;
+    border-radius: 20px;
+    padding: 10px;
+}
+.padding-left-right{
+    padding-left: 20px;
+    padding-right: 8px;
+}
+.padding-top {
+    padding-top: 10px;
+}
+.star-icon {
+    padding-left: 8px;
+    padding-right: 10px;
+}
+.margin-left {
+    margin-left: 25px;
+}
+.float-clear {
+    float: clear;
+}
+.margin-top-25 {
+    margin-top: 25px;
+}
+.Discover_Popular_button {
+    background-color:  rgb(216, 112, 147);
+    padding: 12px 20px;
+    margin: 15px;
+    border-radius: 20px;
+    border:0px;
+    font-size: 18px;
+    margin-left: 40%;
+    margin-top: 40px;
+}
+.margin-top-last-section {
+    margin-top: 60px;
+}
+.width-15 {
+    width: 16%;
+}
+.display-block {
+    display: block;
+}
+.span-margin {
+    margin-top: 15px;
+}
+.text-center {
+    text-align: center;
+}
+.Download-button {
+    padding: 20px;
+    background-color: #202020;
+    color: grey;
+    border-radius: 20px;
+    border-color: #303030;
+    margin-left: 60px;
+}
+.padding-top-bottom {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.border-bottom {
+    border-bottom: 1px solid #404040;
+}
+.button {
+    margin-top: 40px;
+    margin-left: 42%;
+    background-color: rgb(216, 112, 147);
+    color: white;
+    font-size: 17px;
+    padding:12px 20px;
+    border-radius: 20px;
+    border: 0px;
+}
+.text-pink {
+    color:  rgb(216, 112, 147);
+    border-color:  rgb(216, 112, 147);
+}
+.main-background-image {
+    background-image: url('../image/background_image.jpg');
+    background-repeat: no-repeat;
+    background-size: 1170px 400px;
+    border-radius: 20px;
+    margin-bottom: 60px;
+}
+.main-div {
+    width: 1170px;
+    height: 400px;
+}
+.padding-h2-main-image {
+     padding-top: 90px;
+     padding-left: 60px;
+     font-weight: 500;
+}
+.padding-h1-main-image {
+    padding-top: 10px;
+    padding-left: 60px;
+    font-size: 40px;
+    font-weight:800;
+    line-height: 60px;
+}
+.main-image-button {
+    padding: 15px 28px;
+    border-radius: 20px;
+    background-color:  rgb(216, 112, 147);
+    border: 0px;
+    color: white;
+    font-weight: 500;
+}
+.all_buttons:hover {
+    background-color: white;
+    color:  rgb(216, 112, 147);
+}
+.text:hover {
+    color: rgb(216, 112, 147);
+}
+.background:hover {
+    background-color: rgb(216, 112, 147) ;
+}
+.text-decoration {
+    text-decoration: none;
+    color:grey;
+}
+.header-text-color {
+    color:rgb(216, 112, 147);
+}
